@@ -11,6 +11,8 @@ A modern, fully customizable AI chatbot widget for WordPress, built as a single 
 |  Orange  | Orange Chatbot UI <img width="3840" height="2160" alt="orange ui" src="https://github.com/user-attachments/assets/9968fd7e-97d2-4f07-a8aa-54f1626ee109" />|
 |Navy Blue   | Navy Blue Chatbot UI <img width="2560" height="1440" alt="blue ui" src="https://github.com/user-attachments/assets/e1483142-0c45-4cd2-b34b-6fc8fc5f5013" />|
 |Green (Dark Mode)   | Green (night mode) Chatbot UI <img width="2560" height="1440" alt="green black" src="https://github.com/user-attachments/assets/363da8b7-ef21-4801-8c9d-4dc78785aad2" />|
+|  Dark theme  | Dark Chatbot UI <img width="2560" height="1440" alt="Darkui" src="https://github.com/user-attachments/assets/a6536ddf-4a50-427c-8efc-61044ac9c03a" />
+ />|
 
 Lightweight HTML-based AI assistant widget for WordPress. Compatible with OpenRouter API, customizable prompts, and visual themes included.
 
