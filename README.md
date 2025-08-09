@@ -1,5 +1,5 @@
 # Wordpress-Ai-Chatbot
-# 💪 WordPress AI Chatbot (lightweight ai chatbot)
+# 💪 WordPress AI Chatbot (lightweight Ai chatbot)
 
 A modern, fully customizable AI chatbot widget for WordPress, built as a single HTML file. This chatbot supports LLMs via [OpenRouter.ai](https://openrouter.ai), and is designed to be easy to use, embed, and configure within any WordPress site using the Code Snippets plugin or theme editor.
 
